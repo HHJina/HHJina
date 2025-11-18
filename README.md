@@ -1,64 +1,71 @@
-fl<div>
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
-  
-</div>
+👋 Hi there! I'm HHJ (황현진)
+🧑‍💻 Backend Developer — PHP → Python
+<p align="left"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" /> </p>
 
-<div>
-  <!--Body-->
-  
-  ## 👀 About Me
-  #### :raising_hand: I am a ...<br/>
-  #### :fire: I aim to become a ...<br/>
-  #### :mortar_board: ...
-  <br/>
-  <br/>
-  
-  ## 🧱 Tech Stack
-  ### Language
-  <!--Python-->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <!--JavaScript-->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <!--HTML5-->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <!--CSS-->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <br/>
-  
-  ### Framework
-  <!--Flask-->
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-  <!--Django-->
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+3년차 PHP 백엔드 개발자이며, 현재는 Python 백엔드 개발자로 전향하기 위해 꾸준히 공부하고 있습니다.
+"서비스를 더 나은 방향으로" 만드는 것에 항상 관심이 많습니다.
 
-  
-  ### ETC
-  <!--Amazon AWS-->
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-  <!--MySQL-->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <br/>
-  <br/>
-  
-  ## 🤔 Github Stats
-  [!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
+🚀 Tech Stack
+🧩 Languages
+<p> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> </p>
+⚙️ Backend / Framework
+<p> <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/REST_API-009688?logo=fastapi&logoColor=white" /> </p>
+🗄 Database / Cache / Search
+<p> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white" /> </p>
+💡 Frontend
+<p> <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" /> <img src="https://img.shields.io/badge/AJAX-232F3E?style=flat&logoColor=white" /> </p>
+🏢 Experience & Collaboration
 
-<!--
-** ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+실무에서 아래 기업들과 협업하며 서비스 개발 및 유지보수를 진행했습니다:
 
-Here are some ideas to get you started:
-- Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GUESS
+
+Roborock
+
+Henell
+
+The Service
+
+농협맛선
+
+BCAVE
+
+주요 경험:
+
+Redis 기반 실시간 데이터 처리 (리뷰 좋아요, 조회수)
+
+Elasticsearch 검색 서비스 구축 (리뷰 데이터 저장 및 가져오기)
+
+Cafe24 기반 쇼핑몰 기능 커스터마이징 (반품사이트 구축, 매장찾기, 현금영수증 API 연동 등)
+
+API 연동·데이터 흐름 설계·백엔드 구조 개선
+
+📚 Currently Learning & Exploring
+
+🎯 Python Backend 전향을 목표로 학습 중
+
+Django / Django REST Framework
+
+Flask
+
+REST API Best Practices
+
+PyTest 기반 자동화 테스트
+
+FastAPI(관심 있음)
+
+Docker & 배포 환경 구성도 학습 예정
+
+🌱 What I'm Interested In
+
+대량 트래픽 대비 구조 설계
+
+유지보수가 쉬운 코드 구조 만들기
+
+안정적이고 확장 가능한 API 설계하기
+
+📈 GitHub Stats
+<p align="left"> <img height="160px" src="https://github-readme-stats.vercel.app/api?username=HHJina&show_icons=true&theme=default" /> <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HHJina&layout=compact&theme=default" /> </p>
+📫 Contact
+
+📧 Email: jina199234@gmail.com
