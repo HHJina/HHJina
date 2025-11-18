@@ -63,10 +63,10 @@ REST API
 FastAPI(Interested)
 
 - [ ]
-Docker - Planned to study
+Docker
 
 - [ ]
-AWS - Planned to study
+AWS
 
 📈 GitHub Stats
 <p align="left"> <img height="160px" src="https://github-readme-stats.vercel.app/api?username=HHJina&show_icons=true&theme=default" /> <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HHJina&layout=compact&theme=default" /> </p>
