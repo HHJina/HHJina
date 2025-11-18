@@ -2,8 +2,9 @@
 🧑‍💻 Backend Developer — PHP → Python
 <p align="left"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" /> </p>
 
-3년차 PHP 백엔드 개발자이며, 현재는 Python 백엔드 개발자로 전향하기 위해 꾸준히 공부하고 있습니다.
-"서비스를 더 나은 방향으로" 만드는 것에 항상 관심이 많습니다.
+<!-- 3년차 PHP 백엔드 개발자이며, 현재는 Python 백엔드 개발자로 전향하기 위해 꾸준히 공부하고 있습니다.
+"서비스를 더 나은 방향으로" 만드는 것에 항상 관심이 많습니다. -->
+### 내 어린 시절 우연히 들었던 개발 이야기
 
 🚀 Tech Stack
 🧩 Languages
@@ -14,7 +15,8 @@
 <p> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white" /> </p>
 💡 Frontend
 <p> <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" /> <img src="https://img.shields.io/badge/AJAX-232F3E?style=flat&logoColor=white" /> </p>
-🏢 Experience & Collaboration
+
+### 🏢 Experience & Collaboration
 
 실무에서 아래 기업들과 협업하며 서비스 개발 및 유지보수를 진행했습니다:
 
@@ -30,7 +32,7 @@ The Service
 
 BCAVE
 
-주요 경험:
+### 주요 경험:
 
 Redis 기반 실시간 데이터 처리 (리뷰 좋아요, 조회수)
 
@@ -40,7 +42,7 @@ Cafe24 기반 쇼핑몰 기능 커스터마이징 (반품사이트 구축, 매�
 
 API 연동·데이터 흐름 설계·백엔드 구조 개선
 
-📚 Currently Learning & Exploring
+### 📚 Currently Learning & Exploring
 
 🎯 Python Backend 전향을 목표로 학습 중
 
@@ -56,7 +58,9 @@ FastAPI(관심 있음)
 
 Docker & 배포 환경 구성도 학습 예정
 
-🌱 What I'm Interested In
+AWS 학습 예정
+
+## 🌱 What I'm Interested In
 
 대량 트래픽 대비 구조 설계
 
