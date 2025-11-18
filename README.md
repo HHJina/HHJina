@@ -20,17 +20,17 @@
 
 실무에서 아래 기업들과 협업하며 서비스 개발 및 유지보수를 진행했습니다:
 
-GUESS
+- GUESS
 
-Roborock
+- Roborock
 
-Henell
+- Henell
 
-The Service
+- The Service
 
-농협맛선
+- 농협맛선
 
-BCAVE
+- BCAVE
 
 ### 주요 경험:
 
@@ -46,18 +46,24 @@ API 연동·데이터 흐름 설계·백엔드 구조 개선
 
 🎯 Python Backend 전향을 목표로 학습 중
 
+- [ ]
 Django / Django REST Framework
 
+- [ ]
 Flask
 
-REST API Best Practices
+- [ ]
+REST API
 
-PyTest 기반 자동화 테스트
+<!-- PyTest 기반 자동화 테스트 -->
 
+- [ ]
 FastAPI(관심 있음)
 
+- [ ]
 Docker & 배포 환경 구성도 학습 예정
 
+- [ ]
 AWS 학습 예정
 
 ## 🌱 What I'm Interested In
